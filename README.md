@@ -1,1 +1,1 @@
-## github server 대학교 수업
+## github 실습
